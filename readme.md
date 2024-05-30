@@ -1,7 +1,7 @@
 # Aplikasi Jasa Cucian Mobil
 Aplikasi jasa cucian mobil berbasis web ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
-To access admin page, add url /admin. Example http://localhost/jasa/login
+To access admin page, add url /admin. Example http://localhost/ProAutoWash/
 
 ## Tampilan Aplikasi
 ![ss](images/ss1.png)
